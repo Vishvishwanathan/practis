@@ -1,6 +1,22 @@
-.main {
-    background-color: navy;
+body{
+    background-color: aqua;
 }
-.main1 {
-    background-color: blueviolet;
+.box-part{
+    background-color:rgb(236, 245, 242);
+    margin: 50px;
+    padding: 30px 10px;
+
+}
+.fa{
+    color:blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+    margin-top: 20px;
+}
+.box{
+
+    padding: 20px 0px;
 }
